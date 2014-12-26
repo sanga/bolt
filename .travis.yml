@@ -3,4 +3,4 @@ language: go
 go:
   - 1.4
 
-script: make test
+script: go get golang.org/x/tools/cmd/cover && make test
