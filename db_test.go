@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 var statsFlag = flag.Bool("stats", false, "show performance stats")

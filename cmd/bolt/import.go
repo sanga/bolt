@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Import converts an exported database dump into a new database.

@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Pages prints a list of all pages in a database.

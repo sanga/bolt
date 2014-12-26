@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/boltdb/bolt"
-	. "github.com/boltdb/bolt/cmd/bolt"
+	"github.com/sanga/bolt"
+	. "github.com/sanga/bolt/cmd/bolt"
 )
 
 // Ensure that a database can be imported.

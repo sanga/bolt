@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 func TestSimulate_1op_1p(t *testing.T)     { testSimulate(t, 100, 1) }

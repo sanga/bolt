@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Info prints basic information about a database.

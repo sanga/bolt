@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Buckets prints a list of all buckets.

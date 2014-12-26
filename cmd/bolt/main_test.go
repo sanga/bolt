@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/boltdb/bolt"
-	. "github.com/boltdb/bolt/cmd/bolt"
+	"github.com/sanga/bolt"
+	. "github.com/sanga/bolt/cmd/bolt"
 )
 
 // open creates and opens a Bolt database in the temp directory.

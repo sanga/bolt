@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 	"github.com/codegangsta/cli"
 	// "github.com/davecheney/profile"
 )

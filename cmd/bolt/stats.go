@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"os"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Collect stats for all top level buckets matching the prefix.

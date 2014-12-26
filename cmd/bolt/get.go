@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/boltdb/bolt"
+	"github.com/sanga/bolt"
 )
 
 // Get retrieves the value for a given bucket/key.
